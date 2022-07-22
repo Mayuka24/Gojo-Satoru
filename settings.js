@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94763427338']
-global.premium = ['94763427338']
-global.ownernomer = '94763427338'
-global.ownername = 'VIHANGA YT'
-global.botname = 'ᴠɪʜͥᴀɴͣɢͫᴀ ᴍᴅ'
-global.footer = 'ᴠɪʜͥᴀɴͣɢͫᴀ ᴍᴅ.'
-global.ig = 'https://github.com/vihangayt0'
+global.owner = ['94764020947']
+global.premium = ['94764020947']
+global.ownernomer = '94764020947'
+global.ownername = '@Ｍ_ᴘɪʏᴜᵐᴬɴ~'
+global.botname = '@Ｍ_ᴘɪʏᴜᵐᴬɴ~'
+global.footer = '@Ｍ_ᴘɪʏᴜᵐᴬɴ~'
+global.ig = 'https://github.com/piyu'
 global.region = 'Sri Lanka, Southern Province, Hambanthota'
 global.sc = 'https://github.com/vihangayt0'
-global.myweb = 'https://chat.whatsapp.com/FAoZjlZ1i7LBKY4EfsIorz'
-global.packname = 'ᴠɪʜͥᴀɴͣɢͫᴀ ᴍᴅ'
-global.author = 'ᴠɪʜͥᴀɴͣɢͫᴀ ᴍᴅ'
+global.myweb = 'https://chat.whatsapp.com/BCYAgMqyi7q7xO9oDstz04'
+global.packname = '@Ｍ_ᴘɪʏᴜᵐᴬɴ~'
+global.author = '@Ｍ_ᴘɪʏᴜᵐᴬɴ~'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
